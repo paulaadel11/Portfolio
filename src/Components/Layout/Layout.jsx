@@ -1,6 +1,6 @@
 import About from "../About/About";
 import Home from "../Home/Home";
-import Navbar from "../Navbar/Navbar";
+import Navbar from "../NavBar/NavBar";
 import Skills from "../Skills/Skills";
 import Projects from "../Projects/Projects";
 import Contact from "../Contact/Contact";
